@@ -166,4 +166,27 @@ h3{
     font-size: small;
 
 }
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+}
+
+
+@media (min-width: 1024px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+
+
+
+
 
